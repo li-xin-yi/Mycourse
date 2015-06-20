@@ -1,0 +1,16 @@
+D:\C#.NET课程设计\Mycourse\Mycourse\bin\Debug\Mycourse.exe.config
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.Properties.Resources.resources
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.csproj.GenerateResource.Cache
+D:\C#.NET课程设计\Mycourse\Mycourse\bin\Debug\Mycourse.exe
+D:\C#.NET课程设计\Mycourse\Mycourse\bin\Debug\Mycourse.pdb
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.exe
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.pdb
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.StudentHomePage.resources
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.PassWordChange.resources
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.CourseSelect.resources
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.DisplaySelectedCourse.resources
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.Detail.resources
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.DisplaySchedulue.resources
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.AdminHomePage.resources
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.Login.resources
+D:\C#.NET课程设计\Mycourse\Mycourse\obj\Debug\Mycourse.csprojResolveAssemblyReference.cache

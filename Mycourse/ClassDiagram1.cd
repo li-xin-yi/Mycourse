@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Mycourse.AdminHomePage" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAKAAABAAAAChAAADAAA4BgKAAEAAgAQAMAA=</HashCode>
+      <FileName>AdminHomePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.Course">
+    <Position X="1" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAABAAAAAAgAAAABAAAAAUICAAIAAYAAAAAAACA=</HashCode>
+      <FileName>Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.CourseSchedule">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIABAEAAAAAAAAAAAAAAACAAAAAAQAACA=</HashCode>
+      <FileName>CourseSchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.CourseSelect" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAGAAAABACCAABhABAKRAQAHAMw7BiIQwnBPAACAEAA=</HashCode>
+      <FileName>CourseSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.CourseTime">
+    <Position X="3.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAIAACAAAAAAAAAAAAEAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CourseTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.Detail" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8QBAANkbACAAABwAAACAAAACACAoAAAAAGAAgAAACCA=</HashCode>
+      <FileName>Detail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.DisplaySchedulue" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQCACQgABBYAACAAAACAAC4BwAkAGAAAAABCAA=</HashCode>
+      <FileName>DisplaySchedulue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.DisplaySelectedCourse" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJmAAAEBACIAABhABAKBAQACAAQQCACABAAAAACAAAA=</HashCode>
+      <FileName>DisplaySelectedCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.Login" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAA4AAgAEHwAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.PassWordChange" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAACAAEFAAAQCAEAACAIAQCCBEQCCQBQAAQAA=</HashCode>
+      <FileName>PassWordChange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.Program" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.Student">
+    <Position X="3.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAQBCCACAAAAAAAAAAAUAAIAAAAAAAQAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.StudentHomePage" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQiAAAASASAEABAAoEWAAFoaBAAAACAwAAAAIAEAAAA=</HashCode>
+      <FileName>StudentHomePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.StuHP" Collapsed="true">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAABQAAAAAAA=</HashCode>
+      <FileName>StuHP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.Properties.Resources" Collapsed="true">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mycourse.Properties.Settings" Collapsed="true">
+    <Position X="1.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
